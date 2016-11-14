@@ -1,2 +1,2 @@
-# Masters_Thesis
-Contains all the masters records.
+# Thesis
+All the thesis materials.
